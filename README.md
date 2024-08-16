@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Saviourjr A passionate Fullstack DEV from lagos NIG
+- 👋 Hi, I’m @Josh_xy A passionate Front-end DEV from lagos NIG
 - 
 - 👀 I’m interested in ... Fullstack DEV 
-- 🌱 I’m currently learning ... CSS & JS
+- 🌱 I’m currently learning ... React & NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ikulayojoshua1503@gmail.com
 
